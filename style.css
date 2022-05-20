@@ -1,12 +1,12 @@
-* before{
+.before{
   box-sizing: border-box;
 }
 
-* after {
+.after {
   box-sizing: border-box;
 }
 
-.cf:after {
+.cfafter {
   content: " ";
   display: table;
   clear: both;
